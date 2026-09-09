@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# Dominio de páginas privadas de clientes.
+# Ningún buscador debe rastrear ni indexar nada de acá.
